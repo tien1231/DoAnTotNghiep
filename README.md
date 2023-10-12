@@ -1,2 +1,3 @@
-# DoAnTotNghiep
-Đồ án tốt nghiệp - Nguyễn Tài Tiến
+# DoAnWinForm
+# Phần Mềm Bán Linh Kiện Máy Tính
+# Nguyễn Tài Tiến

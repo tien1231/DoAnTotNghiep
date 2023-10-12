@@ -1,0 +1,30 @@
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\bin\Debug\DTO.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\bin\Debug\DTO.pdb
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.dll
+C:\Users\PHI\Desktop\DoAn\New folder\DATN\DTO\obj\Debug\DTO.pdb
+=======
+C:\Users\PHI\Documents\GitHub\DATN\DTO\bin\Debug\DTO.dll
+C:\Users\PHI\Documents\GitHub\DATN\DTO\bin\Debug\DTO.pdb
+C:\Users\PHI\Documents\GitHub\DATN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PHI\Documents\GitHub\DATN\DTO\obj\Debug\DTO.dll
+C:\Users\PHI\Documents\GitHub\DATN\DTO\obj\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\bin\Debug\DTO.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.dll
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.pdb
+C:\Users\Nguyen Khanh\source\repos\DATN\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\bin\Debug\DTO.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\bin\Debug\DTO.pdb
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\obj\Debug\DTO.dll
+D:\DoAnTotNghiep\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\0306181326_NguyenQuocKhanh_0306181350_NguyenHuuPhi\QLCHBLKMT\DTO\obj\Debug\DTO.pdb
+D:\QLCHBLKMT\DTO\bin\Debug\DTO.dll
+D:\QLCHBLKMT\DTO\bin\Debug\DTO.pdb
+D:\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QLCHBLKMT\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QLCHBLKMT\DTO\obj\Debug\DTO.dll
+D:\QLCHBLKMT\DTO\obj\Debug\DTO.pdb

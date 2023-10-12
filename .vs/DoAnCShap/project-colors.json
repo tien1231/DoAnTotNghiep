@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25c281b2-308b-4794-a680-eb996d805bff": {
+      "ProjectGuid": "25c281b2-308b-4794-a680-eb996d805bff",
+      "DisplayName": "DoAnCShap",
+      "ColorIndex": 0
+    },
+    "62e5e006-2189-4c07-ad0a-b912d5852d12": {
+      "ProjectGuid": "62e5e006-2189-4c07-ad0a-b912d5852d12",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
